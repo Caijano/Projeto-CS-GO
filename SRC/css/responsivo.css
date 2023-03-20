@@ -60,5 +60,6 @@
     .modal #video {
         width: 250px;
         height: 140px;
+        justify-content: space-between;
     }
 }
